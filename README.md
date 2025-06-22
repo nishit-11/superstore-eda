@@ -2,6 +2,7 @@
 EDA and dashboarding of the Superstore dataset using Python and Power BI
 
 ## 📊 Tools Used:
+- Jupyter Notebooks
 - Python (Pandas, Numpy, Seaborn, Matplotlib)
 - Power BI
 
